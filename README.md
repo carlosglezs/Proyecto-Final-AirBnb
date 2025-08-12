@@ -16,13 +16,21 @@ Período de análisis:
 
 ## Estructura del Repositorio
 /data -> Datasets crudos y procesados
+
 /jupyter -> Notebooks de análisis y limpieza de datos
+
 /src -> Scripts y funciones auxiliares
+
 README.md -> Documento de referencia del proyecto
+
 requirements.txt -> Lista de dependencias necesarias
+
 Analisis de Airbnb Madrid.md -> Conclusiones del proyecto
+
 Dashboard.pbix -> Dashborad interactive en PowerBI
+
 Recap.md -> Desglose de las sesiones del proyecto
+
 
 ## Contenido de los Datos
 
