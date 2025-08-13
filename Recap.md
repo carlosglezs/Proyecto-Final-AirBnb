@@ -299,6 +299,10 @@ Calcular y mostrar los principales KPIs (Key Performance Indicators) para el an�
   - Promedio de días ocupados por precio por persona (rango de precios).
 - **Relevancia:** Permite ver cómo varía la ocupación según el nivel de precios, identificando segmentos más rentables o con mayor rotación.
 
+## 6️⃣ Desglose en matriz de los datos
+- Por barrio y trimestre
+- Se contabiliza: número de ofertas, ingresos, promedio de días ocupados y promedio de ingresos por día
+
 ---
 
 ## 💡 Conclusión

@@ -26,9 +26,13 @@ README.md -> Documento de referencia del proyecto
 requirements.txt -> Lista de dependencias necesarias
 
 Analisis de Airbnb Madrid.md -> Conclusiones del proyecto
+<<<<<<< HEAD
 
 Dashboard.pbix -> Dashborad interactive en PowerBI
 
+=======
+Dashboard.pbix -> Dashborad interactivo en PowerBI 
+>>>>>>> d2f74b9 (Correcciones menores)
 Recap.md -> Desglose de las sesiones del proyecto
 
 
